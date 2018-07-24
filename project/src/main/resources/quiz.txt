@@ -9,8 +9,8 @@
 
 •	developers
 •	mailing list
-•	Both of the above.
-+	None of the above.
++	Both of the above.
+•	None of the above.
 
 3.	Which of the following phase in maven life cycle compiles the source code of the project?
 
